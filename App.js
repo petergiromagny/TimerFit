@@ -9,7 +9,7 @@ const instructions = Platform.select({
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.welcome}>Welcome to React Native!</Text>
+      <Text style={styles.welcome}>Welcome to React Native pour la version IOS ou ANDROID c'est vraiment comme tu veux vu que React Native permet de faire les deux!</Text>
       <Text style={styles.instructions}>To get started, edit App.js</Text>
       <Text style={styles.instructions}>{instructions}</Text>
     </View>
