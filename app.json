@@ -1,0 +1,17 @@
+{
+  "name": "TimeFitApp",
+  "displayName": "TimeFitApp",
+  "expo": {
+    "name": "TimeFitApp",
+    "slug": "TimeFitApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
